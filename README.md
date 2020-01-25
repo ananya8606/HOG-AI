@@ -1,2 +1,2 @@
 # DROID-AI
-It contains all materials used for Artificial Intelligence Course for Drones and Bots
+It contains all materials used for Artificial Intelligence Courses and workshops
